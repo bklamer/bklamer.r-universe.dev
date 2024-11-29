@@ -2,5 +2,10 @@
     {
         "package": "rankdifferencetest",
         "url": "https://bitbucket.org/bklamer/rankdifferencetest"
+    },
+
+    {
+        "package": "depower",
+        "url": "https://bitbucket.org/bklamer/depower"
     }
 ]
