@@ -7,5 +7,10 @@
     {
         "package": "depower",
         "url": "https://bitbucket.org/bklamer/depower"
+    },
+
+    {
+        "package": "bkbase",
+        "url": "https://bitbucket.org/bklamer/bkbase"
     }
 ]
